@@ -1,0 +1,84 @@
+Name of Dish,Type of Cuisine,Category,Availability in Room Service,Availability in Shimmer,Availability in Moka Pot,Availability in Palm Springs,Price
+Cream of Mushroom,continental,soup,T,T,T,T,100
+Cream of Tomato,continental,soup,T,T,T,T,100
+Manchow,continental,soup,T,T,T,T,150
+Babycorn,continental,soup,T,T,T,T,100
+Dhokla,indian,starter,T,F,F,T,80
+Paneer Platter,indian,starter,T,F,F,T,250
+Samosa Chaat,indian,starter,T,F,F,T,150
+Vegetable Cutlets,indian,starter,T,F,F,T,150
+Corn Cheese Balls,continental,starter,T,T,F,T,180
+Roasted Chicken,continental,starter,T,T,F,T,320
+Deviled Eggs,continental,starter,T,T,F,T,120
+Spring Rolls,continental,starter,T,T,F,T,160
+Cold Pasta Salad,italian,starter,T,T,F,T,140
+Carbonara Arancini,italian,starter,T,T,F,T,170
+Focaccia Rolls,italian,starter,T,T,F,T,250
+Bruschetta,italian,starter,T,T,F,T,250
+Yakitori,japanese,starter,T,T,F,T,300
+Soy Glazed Edamame,japanese,starter,T,T,F,T,400
+Chilled Tofu,japanese,starter,T,T,F,T,400
+Vada Pav,indian,snack,F,F,F,F,50
+Italian Meatballs,italian,snack,F,F,T,F,100
+Cacciatore,italian,snack,F,F,T,F,200
+Bangers and Mash,continental,snack,F,F,T,F,350
+Potato Wedges,continental,snack,F,F,T,F,200
+Grilled Panini,continental,snack,F,F,T,F,150
+Scrambled Eggs,continental,snack,F,F,T,F,110
+Pancakes,continental,snack,F,F,T,F,150
+Bread and Marmalade,continental,snack,F,F,T,F,80
+Kinako Sticks,japanese,snack,F,F,T,F,40
+Crispy Papadum,indian,starter,T,F,F,T,20
+Idli,indian,meal,T,F,T,T,70
+Uthappa,indian,meal,T,F,T,T,50
+Dosa,indian,meal,T,F,T,T,40
+Aloo Gobi,indian,meal,T,F,F,T,120
+Chana Masala,indian,meal,T,F,F,T,130
+Palak Paneer,indian,meal,T,F,F,T,140
+Dal Makhani,indian,meal,T,F,F,T,180
+Malai Kofta,indian,meal,T,F,F,T,170
+Paneer Tikka Masala,indian,meal,T,F,F,T,160
+Kadai Mushroom,indian,meal,T,F,F,T,150
+Chole,indian,meal,T,F,F,T,320
+Vegetable Korma,Indian,meal,T,F,F,T,100
+Methi Mutter Malai,indian,meal,T,F,F,T,120
+Butter Chicken,indian,meal,T,F,F,T,350
+Chicken Tikka Masala,indian,meal,T,F,F,T,350
+Fish Curry,indian,meal,T,F,F,T,420
+Lamb Vindaloo,indian,meal,T,F,F,T,530
+Filet Mignon,continental,meal,T,T,F,T,550
+Au Gratin,continental,meal,T,T,F,T,340
+Honey Roast Chicken,continental,meal,T,T,F,T,370
+Lamb Steaks,continental,meal,T,T,F,T,560
+Tteokbokki,japanese,meal,T,T,F,T,430
+Sushi Platter,japanese,meal,T,T,F,T,650
+Shio Ramen ,japanese,meal,T,T,F,T,450
+Takiyaki,japanese,meal,T,T,F,T,450
+Barbecued Chicken Pizza,italian,meal,T,T,F,T,510
+Pasta Alfredo,italian,meal,T,T,F,T,300
+Lasagna,italian,meal,T,T,F,T,450
+Apple Pie,continental,dessert,T,T,T,T,150
+Sizzling Brownie,continental,dessert,T,T,T,T,100
+New York Cheesecake,continental,dessert,T,T,T,T,120
+Caramel Custard,continental,dessert,T,T,T,T,80
+Tiramisu,italian,dessert,T,T,T,T,170
+Peach Gelato,italian,dessert,T,T,T,T,110
+Biscotti Cupcake,italian,dessert,T,T,T,T,160
+Shahi Tukda,indian,dessert,T,T,T,T,60
+Gulab Jamun,indian,dessert,T,T,T,T,90
+Phirni,indian,dessert,T,T,T,T,80
+Red Bean Cake,japanese,dessert,T,T,T,T,140
+Matcha Swiss Roll,japanese,dessert,T,T,T,T,120
+Masala Chai,indian,drinks,T,F,T,T,40
+Filter Coffee,indian,drinks,T,F,T,T,70
+Nimbu Paani,indian,drinks,T,F,T,T,80
+Cappucino,continental,drinks,T,F,T,F,130
+Latte,continental,drinks,T,F,T,F,120
+Cafe Au Lait,continental,drinks,T,F,T,F,120
+Espresso,continental,drinks,T,F,T,F,150
+Chocolate Milk,continental,drinks,T,F,T,T,60
+Virgin Mojito,continental,drinks,T,T,T,T,120
+Peach Ice Tea,continental,drinks,T,T,T,T,110
+Watermellon Cooler,continental,drinks,T,T,T,T,100
+Appy,continental,drinks,T,T,T,T,90
+Coke,continental,drinks,T,T,T,T,90
