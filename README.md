@@ -1,6 +1,7 @@
 # kaleidoscope
 muddled archive of projects
 
+
 # SmartMenu
 
 ## Objective
